@@ -41,7 +41,7 @@ Project created by <a href="https://github.com/prisoners924"></a> to make it pub
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](...)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ### The Hard Method
 
@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/prisoners924"></a> to make it pub
 ----
 
   <p align="center">
-  <a href="https://github.com/zim-bot/madelinee">
+  <a href="https://github.com/prisoners924/deneme">
     
 <a href="https://github.com/Amal-ser/followers">
 <img src="https://img.shields.io/github/repo-size/zim-bot/madeline?color=green&label=Repo%20total%20size&style=plastic">
