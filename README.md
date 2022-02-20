@@ -15,7 +15,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make it public
+Project created by <a href="https://github.com/prisoners924"></a> to make it public
     <br>
        | © |
         Reserved |
@@ -80,7 +80,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/27634090203?text=Can%20you%20help%20bro)**
+**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/905446057150?text=Can%20you%20help%20bro)**
 
 
  
